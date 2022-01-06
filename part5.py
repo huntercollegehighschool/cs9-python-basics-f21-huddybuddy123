@@ -12,4 +12,7 @@ Hello, Ash Ketchum
 
 '''
 
-#start writing your code below
+uno = input("Enter first name: ")
+no = input("Enter last name: ")
+
+print ("hello", uno, no)
